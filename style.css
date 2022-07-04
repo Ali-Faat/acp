@@ -74,10 +74,16 @@ h1 {
   }
 
   .globe {
+    z-index: -1;
     align-self: center;
     margin: 10px;
     width: 75%;
-    height: 50%;
+    height: 75%;
+  }
+
+  .countdown{
+    align-self: center;
+    flex-direction: column;
   }
 
   .time {
@@ -85,11 +91,11 @@ h1 {
   }
 
   .time h2 {
-    font-size: 12px;
+    font-size: 25px;
     margin: 0;
   }
 
   .time small {
-    font-size: 10px;
+    font-size: 20px;
   }
 }
