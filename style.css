@@ -75,10 +75,11 @@ h1 {
   }
   .globe {
     z-index: -1;
+    margin: 15px;
     align-self: center;
     /* margin: 10px; */
     width: 100%;
-    height: 60%;
+    height: 100%;
   }
 
   .countdown{
