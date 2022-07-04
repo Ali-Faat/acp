@@ -2,6 +2,7 @@
 	align-self: flex-end;
 	z-index: -1;
 	width: 300px;
+	margin: 15px;
 	height: 285px;
 	border-radius: 50%;
 	background-image: url(mapamundi.jpg);
