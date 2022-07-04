@@ -70,7 +70,14 @@ h1 {
 
 @media (max-width: 500px) {
   h1 {
-    font-size: 45px;
+    display: none;
+  }
+
+  .globe {
+    align-self: center;
+    margin: 10px;
+    width: 75%;
+    height: 50%;
   }
 
   .time {
